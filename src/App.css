@@ -90,7 +90,7 @@
 
 .blog_card__progress {
     height: 15px;
-    border: 1px solid #b0b0b0;
+    background-color: #cbcbcb;
     border-radius: 5px;
     padding: 0;
     /*margin-bottom: 10px;*/
